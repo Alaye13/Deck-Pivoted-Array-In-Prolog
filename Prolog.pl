@@ -1,6 +1,4 @@
 %Ifenna Ekwenem
-%Ron Reaser 
-%CS 310-001
 %j
 same(Alpha,Bet):-
 	Alpha==[], Bet==[].
